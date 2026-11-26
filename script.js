@@ -8,3 +8,9 @@ botao.addEventListener("click", function() {
     result.innerHTML = "Número sorteado: " + numero;
 
 });
+
+
+
+
+
+
